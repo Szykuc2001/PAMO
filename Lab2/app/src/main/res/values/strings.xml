@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_home">BMI</string>
+    <string name="title_dashboard">Calories</string>
+    <string name="title_notifications">Recipes</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_calories">Calories</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="kcal">You should eat around 2000 kcal</string>
+    <string name="breakfast">
+        <a href="https://zdrowe-odzywianie-przepisy.blogspot.com/2022/10/placuszki-z-dyni.html">Placuszki z dyni</a>
+    </string>
+    <string name="lunch">
+        <a href="https://zdrowe-odzywianie-przepisy.blogspot.com/2017/02/tortilla-faszerowana-pomidorowym-ryzem.html">Tortilla z pomidorowym ryżem</a>
+    </string>
+    <string name="supper">
+        <a href="https://zdrowe-odzywianie-przepisy.blogspot.com/2014/01/sia-tkwi-w-prostocie.html">Sałatka</a>
+    </string>
+    <string name="enter_weight_in_kg">Enter weight in KG</string>
+    <string name="enter_height_in_cm">Enter height in CM</string>
+    <string name="bmi_calculator">BMI</string>
+
+</resources>
