@@ -1,5 +1,5 @@
 package com.example.lab2;
-
+/// Szymon Kuczyński s22466
 import androidx.test.espresso.Espresso;
 import androidx.test.espresso.action.ViewActions;
 import androidx.test.espresso.matcher.ViewMatchers;
