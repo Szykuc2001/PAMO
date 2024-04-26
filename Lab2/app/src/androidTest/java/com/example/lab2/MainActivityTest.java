@@ -1,5 +1,5 @@
 package com.example.lab2;
-
+/// Szymon Kuczyński s22466
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
