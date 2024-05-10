@@ -1,3 +1,4 @@
+///Szymon Kuczyński s22466
 package com.example.lab2;
 
 import android.content.Intent;
