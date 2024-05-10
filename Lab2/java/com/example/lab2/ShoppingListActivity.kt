@@ -25,7 +25,7 @@ class ShoppingListActivity : AppCompatActivity() {
 
         val recyclerView: RecyclerView = findViewById(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.adapter = CheckboxAdapter(customItemList)
+        recyclerView.adapter = Checkbox(customItemList)
     }
     fun openHome(view: View?) {
         startActivity(Intent(this, HomeActivity::class.java))
