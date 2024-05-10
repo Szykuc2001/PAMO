@@ -8,7 +8,7 @@ import android.widget.CheckBox
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class CheckboxAdapter(private val itemList: List<CustomItem>) :
+class Checkbox(private val itemList: List<CustomItem>) :
         RecyclerView.Adapter<CheckboxAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
